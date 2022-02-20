@@ -1,0 +1,1 @@
+(() => { console.log("To install some npm packages and nothing else"); })();
